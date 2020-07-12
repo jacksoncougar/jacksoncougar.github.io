@@ -1,13 +1,212 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Casper]]></title><description><![CDATA[A port of the casper blog built for gatsby]]></description><link>https://gatsby-casper.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jul 2020 02:07:07 GMT</lastBuildDate><item><title><![CDATA[Welcome to Ghost]]></title><description><![CDATA[A few things you should know upfront: Ghost is designed for ambitious, professional publishers who want to actively build a business around…]]></description><link>https://gatsby-casper.netlify.com/welcome/</link><guid isPermaLink="false">https://gatsby-casper.netlify.com/welcome/</guid><pubDate>Sun, 06 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;A few things you should know upfront&lt;/strong&gt;:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://example.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Jul 2020 02:01:27 GMT</lastBuildDate><item><title><![CDATA[Nightshade Project]]></title><description><![CDATA[This is a bug or a snail.]]></description><link>https://example.com/nightshade/</link><guid isPermaLink="false">https://example.com/nightshade/</guid><pubDate>Fri, 10 Jul 2020 00:46:38 GMT</pubDate><content:encoded>&lt;p&gt;This is a bug or a snail.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Indoor Growing LED light]]></title><description><![CDATA[Introduction I like growing some herbs and flowers indoors but becuase they are in the basement the plants I grow often struggle due to the…]]></description><link>https://example.com/led-grow-light/</link><guid isPermaLink="false">https://example.com/led-grow-light/</guid><pubDate>Fri, 10 Jul 2020 00:46:38 GMT</pubDate><content:encoded>&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I like growing some herbs and flowers indoors but becuase they are in the basement the plants I grow often struggle due to the lack of light available. To help my green friends out I decided to build some DIY grow lights from simple parts you can purchase on the internet.&lt;/p&gt;
+&lt;h2&gt;Parts, Supplies, and Tools&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1632px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/84bdfeb1b6e1b5cca0d646d366ea029e/c7b1b/2020-07-11-19-35-04.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC4UlEQVQozw3SWW/SAADA8X4EHzzefFjUvaiJ8cVE3YtPxmtubsuiO9TJoo47ZBRaOlpWoAPGJZRtDBkDXMdRbhgwSjmmQFk9p8HoovHN+BncB/jl//IHNOBzTCNGIaFOI7ISsNuqtZshr2sx/NqSeEMWEv56catVjXENmqvHOizVKHhLSfe2Xx9c0wH4ghCD5zTKWcOC2L4EknYNaZLYrOYl97bp1VY6GX9bplq71MdmtLef+cplO7Uok/PGQ8T2hgHQwS/VsseQ/KlZr3CYVKtOzOdABoen+y8P9l28rYK0n1sZJhtQKVXPnjwLr+rbJT+TsMc3sKBXByBKgVb1nMCkR5K0IRseApLO9vX1Hz915tjJs2Mjo12WFs5JNyO4wQbevTuSfGOz4Ao6aKJ8BkCrnltEJHpUZtGD6y487LVCIsG1q9f7z1/pO3cJVMgzkcCFiwM7Zezvv9zY6NTQ0DAMg43dSCEdAFD1rOTF5PT4ncmx+0eY8tm8Dv2K02i3EJ5X9kohkYyGBgZujI0LZFL1yROndZB4v0EX6HWa8gC4ViiYeTQzNSJ48tBlhoPr9uimK77la9Xz3F6lWS1W8nFCv3jr5p17gw+Wl81szl/NbbLFaCbuBxBYJBELZmYmDIYF8xKGQrLAmsm36i4XktVSNhUNZ3cq6TyTpUKf3rGHB9zHbr3bru7Vd5hyFpDOTTssiMOiWl7SOGyG1RVHjCJdTnMs7E1Eg4lik2K+F7lfbLWyx5ZSoTXa59zNRQqZrRQdAhC1BNXIca2cwGSEbt7jtmwGSJK0k263ZgFbSfL5Zo/j+Ha73d3n3/N8nSmXk7FKKZdLJwAEkqKIHEcVR58phFNK0VN4XqjXgigMTY5PEEbLu1qd22vy3f1Ohz/48q3GMo0a06wx+WwKgEEhAkm0kEh3FMdVZhw0onKrEfFYF4NeJx3eKGfSfKf188dhr3f46/cf/gPPsuVcJh6LBP4DKzOh0MkVp14AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 35 04&quot;
+        title=&quot;2020 07 11 19 35 04&quot;
+        src=&quot;/static/84bdfeb1b6e1b5cca0d646d366ea029e/c7b1b/2020-07-11-19-35-04.png&quot;
+        srcset=&quot;/static/84bdfeb1b6e1b5cca0d646d366ea029e/0eb09/2020-07-11-19-35-04.png 500w,
+/static/84bdfeb1b6e1b5cca0d646d366ea029e/1263b/2020-07-11-19-35-04.png 1000w,
+/static/84bdfeb1b6e1b5cca0d646d366ea029e/c7b1b/2020-07-11-19-35-04.png 1632w&quot;
+        sizes=&quot;(max-width: 1632px) 100vw, 1632px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;20W White LED COB ($2.49)&lt;/li&gt;
+&lt;li&gt;120V to 12V AC/DC converter ($14.87)&lt;/li&gt;
+&lt;li&gt;LED lens, reflector, heatsink, and 12V fan kit ($18.38)&lt;/li&gt;
+&lt;li&gt;Electrical plug with switch (free/recycled)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Supplies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Thermal paste ($1)&lt;/li&gt;
+&lt;li&gt;Flux ($0.10)&lt;/li&gt;
+&lt;li&gt;Solder ($0.10)&lt;/li&gt;
+&lt;li&gt;Velcro ($1.00)&lt;/li&gt;
+&lt;li&gt;Heatshrink tubing ($0.10)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Soldering Iron&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Total Cost: $38.04&lt;/p&gt;
+&lt;h1&gt;Assembly&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for.&lt;/li&gt;
-&lt;li&gt;The entire platform can be modified and customised to suit your needs. It’s very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-&lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;First solder the neutral and live ends of the electrical cord to the marked pads on the LED COB. &lt;/p&gt;
+&lt;p&gt;Tip: Don’t attached the LED to the heatsink until after all the wires have been soldered.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Next solder the neutral and live wires of the &lt;code class=&quot;language-text&quot;&gt;APV-12-12&lt;/code&gt; to the marked pads on the LED COB. &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 757px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/93179d56b86ec1922cc0d0b43bfb3628/70668/2020-07-11-19-36-04.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.20000000000002%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 36 04&quot;
+        title=&quot;2020 07 11 19 36 04&quot;
+        src=&quot;/static/93179d56b86ec1922cc0d0b43bfb3628/70668/2020-07-11-19-36-04.png&quot;
+        srcset=&quot;/static/93179d56b86ec1922cc0d0b43bfb3628/0eb09/2020-07-11-19-36-04.png 500w,
+/static/93179d56b86ec1922cc0d0b43bfb3628/70668/2020-07-11-19-36-04.png 757w&quot;
+        sizes=&quot;(max-width: 757px) 100vw, 757px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Tip: Use something to press down on the wires to keep them from lifting off from the pad while the solder is liquid.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Solder the fan wires to the 12V wires of the APV-12-12 (red to red, black to black). &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1858px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a22e7c30ba6813db138c90c9a04747b/bf7a7/2020-07-11-19-36-51.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACMElEQVQozwElAtr9AMyqaN+9gOnOm+fRpOfUq+/gufTnwPfsxfXnwO/huvPiuPXjuPLfufHbtd7HnUpALBYbIBshJhgdIxMYHQDdx5zm06nr2rPy5sH26sT46sP36sL15bzx3bD03K7y3K/y26/x2a3mzqXs1KiFdFQWGBceIysaHyYUGiAA59Gn7das8duw9eG29+W69ee+9eW7/Ou/++e438qh8Nyr8dmoxbGRxLGK5cmUt51tJiAUGyAoGh8mFx0kAOnUrO7XrvLdtfPjvPfpwv7vw/zsv9HDn6GWgMG7muzKndeXeM2xjuHJlebLmOHFjVJDJhMZHRoiKBUcIgD268fu1aTt0qD33an14LLVx6C8sJGelHvDs5Dvuo7XfV7ep37x2qTq0qDnz6Dt06Kahl4YGRQfKTEYICgA9uvF89ys89mpvKR6qJt+vbKV3dKrr5l21Y5r6LmU2KWB79Gk7NCd5suW4MSQ38WT0beCPzUhHSYwIyo0APrux/LftaSWeLKfeuHMo+7ftti6k755W+PAm9vKo9qujvbjuvXitO/XpunQoODHlufMl3tqSBUaICozQAD36L+hlXu/rYniypnl1a314brJgWG9o4Tq3LTr2bHlu5n037L24rLy2abt057mzJnjypW/qHQqJRoWIS8Ao5Fpq5h02cGR6dKj9+W136SCtZBux8Sm/OzH7+G86cSf47iS8+Cx7tSi6c2X5MmR3sOM3sSKr5hlaFs+EzVlpKJEkIUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 36 51&quot;
+        title=&quot;2020 07 11 19 36 51&quot;
+        src=&quot;/static/4a22e7c30ba6813db138c90c9a04747b/bf7a7/2020-07-11-19-36-51.png&quot;
+        srcset=&quot;/static/4a22e7c30ba6813db138c90c9a04747b/0eb09/2020-07-11-19-36-51.png 500w,
+/static/4a22e7c30ba6813db138c90c9a04747b/1263b/2020-07-11-19-36-51.png 1000w,
+/static/4a22e7c30ba6813db138c90c9a04747b/bf7a7/2020-07-11-19-36-51.png 1858w&quot;
+        sizes=&quot;(max-width: 1858px) 100vw, 1858px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Apply thermal paste to the heatsink then attach the LED to the heatsink.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 866px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73c022b6df1e3abb1232bd8c526a1da3/4219d/2020-07-11-19-37-59.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 116.60000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFbklEQVQ4yxWQW0xaBwCGT5YsadJ2XdXWS+3U2rmmrbVNFRW19S6IWquAFKyKIgKCiMhFzuFyuBwuh8vhJoiIhSogVileqmvN7HVxydZtqWu7PnV72EOTZY97HXv7X77/+/MDemETMtnigTqqyvKOHT8hFjLNdptCJLS73YuhQADuD+kpIX1vzDGw4mbPGwe8arJXQ3GAt1EpCYDYFTCvWs/HjQ60Gcxo6F44EFpUiyY9mMGOSEImZtw+uGRmpCsiZsaCjuqWt1vFrYigAWRWAIbJepOoEZM136U2CoRcuw2xW3QgiwwJyNAYYVHXF9JS/cpuH9jpBzt8ChIqqNGzyxEuXjOGBwyCWuNEHZ+KK8wvxlXVjo7QYAGV2Vo6RCqN6KgPPZwHDmYUHZzX9Mwpb/kUHV4ZAZsm2sSttqlmwAkSFawaIeOGbLjuQnHx9cqGlkrceCduw8cJWGVqJRi0S1ZdnDX3WBzjRO1jMTs7irEjtpEwygQwsGsW7pUP1ZRfzD1z+hj+Sv6lgrMdLY1quQRU6dV6s8nqspl0YUyS9PHXPZyEkx023plVtOuGywD7VH36aqOwmd5ytbQ4Z6y30j3dTSH3VOCqQQjSIm4UdaB2r9GIWRHYrxv1ytpMYxXIaDnCrgQWjP0eVQ+muOWc6aTXl9z4JvdmbbUJATFUl4qpniao8WgIsYYwVyAQXDKYnKhB5VIxPWC3W9UNeCGiiY9TjVzn9FwyzTAhmbSP2qvVQrtJ+DCR8z4KHK4VbEWF98Jxp9NlNGMavUOrBC2iZqukDVANlYhv5/KIOdPsbu/cYnhpxWgyLS5F3+42vwsDbyKfv70P/JCiRhM7C6F7dodPCyOIqNslJTrlHYCBj1cOXpg1Th388mF5NRWJrsbiDx5ufGtBHfuJO78ngJ83SXZ3OLqysbX92OUJqido1snWOZjmVnQDVinRA3WZZwbW1lPv//j0eP9VcmMnGludD8VXk/t7O4HVleXNzb3UxrYvuKyRjksYVW6IHtTT/BoKYBYTsZlOmFdfVVrodmKHHz4+P3i9ur6zkkg+2n5ktLhh2JAOoXDcYtSL6dXIJNmvps3r+gJaGqDh4A38Gqesrb32fFFehkoq/PXw3YuD16ntvfSESGTJ7w/GVpKhxSU5iyAfIUKcjlmwy6fp86koAJeUCzIvI/wqEr4oM/PkpeI87iDl+fOXbz78+erHw529ly7PQmprTyPqlzGbREMkVESc19H8MM2rpADy4as6fg3EKi8792X2yaNZaf782c4mfDwW//jX3wc//RZf2/batCIGfoZLtUioQS3DrSDbpjvMwjYAHL0GjVzTcqsGSSXnc47mZh796kzO+aJ8XOnXDovx0z//PnnyWEDHy7lkRDKQWoDCKG9WzbDLbpuF7YCaW6efaDZMtNqkJAEdd7nwRFHOF3nZGSXFBRfPneGzhuDJvqmRdvk4PeaSrM2BYZTrAmnW6W6LqAuAx5u0440afqM2zctvyVkNlRdOF546np+ddTorq6w4S84miMcZ86h4d9kUd0+HjGMeZT8mp9qk5LS5Vsm9oeLWw4IW/SQJm6HAfGLN5bxzp45nZ5w4m5vBphMtKs7TddduFN0IadbnwYRPFvOIl90iQNR3RcMnQJxGNa9JP0EwTnW6IBoG0Uk1JQWZR458BrTUXnmW8rzY8O2vY08S6O6KObmoivsk951CQEC7qkzDvAYtv9koIqKyLqfqTtDEmkNGFbzOqWHCslfx/aO5/f/Nhs0IvLagjHlEERsvYGIBMm6dgntTNd4IT6RnE8zTJAfY64XvLpi5iTl52vPduuvlVuDZQ892RJsMqRKBmfvYRNDM9uru/gdStnmDQZuLFQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 37 59&quot;
+        title=&quot;2020 07 11 19 37 59&quot;
+        src=&quot;/static/73c022b6df1e3abb1232bd8c526a1da3/4219d/2020-07-11-19-37-59.png&quot;
+        srcset=&quot;/static/73c022b6df1e3abb1232bd8c526a1da3/0eb09/2020-07-11-19-37-59.png 500w,
+/static/73c022b6df1e3abb1232bd8c526a1da3/4219d/2020-07-11-19-37-59.png 866w&quot;
+        sizes=&quot;(max-width: 866px) 100vw, 866px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Attach the lens on top of the LED.&lt;/li&gt;
+&lt;li&gt;Attach velcro to the &lt;code class=&quot;language-text&quot;&gt;APV-12-12&lt;/code&gt; and heatsink and attach one to another.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1156px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5a00ed4a06048897e7f525c6804bd7e1/07220/2020-07-11-19-39-06.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEGElEQVQ4ywENBPL7AMHM1nJ7g0lPUnJUTqRpVLmXa8Gpe8SrfcKodb2gbL6jcb6gZ8aqdsClb72hbK6VZox7WXNmTl1POEU3HQB5foFlgIw+e5I0UVxISDyYgVrOrnuZhWU3MSbAqYLNtYvNs4fQupTSvJXVu5PRupXBtKbMv67Bsp65pnoAgoiLeqGxX4qfY6zIeZaLdVw8vqFrooNUcl06uZxtx61+zrOGuqN8yrOO3sae17ySx7SbxrquvbWwxbSTAJyqtaG5yqTg91q92p6cdqKOZlNJQ7WQdtS0f8albcamcM6yhdGzg9O2h9a6i9m+kODOpc/Ao9C8mdC4iwBtZ1J7qLRbwtuBo5PMtoOZgm82Kzl9hpWjn5xiVkWIckaUfkqeiGjAqYbGrIPPtIfMuJTNt4zQuIbPuo4AtZtetKZ2qqF6zbB7po1sVShAeWh1PUVSQ0hWc2Q7sqJusp9bgm84SEVAl5CE07iHzK58w6h1vaNvvqRyAM24hdS8iOLIlt/Mm35WVnRhes/S2FdVYDg3NGtgPYF+coaEfH92VVRQRaKfmufQp9a+lc62isStf76mdgDCrXrKtH/JsX1aUj4jFR9sa3OvuMFaV2BOT1RCQUBOS0FiXlNgWU5xaF+gnJrex5/fyqXcyKPbyKXSv5oA0LqK2L6Isp52gYePfHZ8Jyk4Q0dSb3N8Z2hud3h8YF9maGVqZ1xSiomLtrOz1LqQz7WIwqZzxqp1wad1ANK7jde/kNjCnMXEwZR6e3d5jVdabaWsvKqyxKqzw4eMlra7wnp7fHt/h8nFwtnEnM+6kcWqfcOdap18UgDMtYLMsXzVuYaqp55eSEV9e4BbVmJ2c2+TkpWop6y1tr/FytjByNW8x9nKw7nHrn7NuY/PvZPQupK6n3MAu5xeupdQwqZvmo16c1hKdGt0VUpNOTQrQz86TUZAYFdQZ2Fcc3BslpeY1sy807uRz7iNzbaLy7WLuqJwALuhZMatdMyyeZiBT2NONWFHLEk9JgkKDR4cGykmIyclIjUyLS0pInBqY+zi0OTSq97KpNbBmcWwh7mkfQDIuIvKtovNt4iwmmuUgFCRe0qHcUVdTzE6Mh84Lx8tJx0fHRkVFRZbV1Hby63p2LDk0qvax57KtovBroQAwrCEw6+Gx7KJpZNsqpdwsZxzy7WK2MGRzLSEu6R5oIxmdWdJSj8ocWNK3sed4c+n49Gq3Mmi1MGZzLiPAKyRYr6qgb+rg6uYb7qofsazitK/mdbEn9rHpObUt/Ljxuzct+DJneHIn+PQq+DOqd3JotnGn9TAmcq3jgC8rIHAr4XBr4XFsojHs4nKt4/OuZHVv5nax6Pj07To2r7k17vr4Mbo2Lvbx6XSvZbNuJLNuZHMuI7BroM3Ekm6NjcxTgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 39 06&quot;
+        title=&quot;2020 07 11 19 39 06&quot;
+        src=&quot;/static/5a00ed4a06048897e7f525c6804bd7e1/07220/2020-07-11-19-39-06.png&quot;
+        srcset=&quot;/static/5a00ed4a06048897e7f525c6804bd7e1/0eb09/2020-07-11-19-39-06.png 500w,
+/static/5a00ed4a06048897e7f525c6804bd7e1/1263b/2020-07-11-19-39-06.png 1000w,
+/static/5a00ed4a06048897e7f525c6804bd7e1/07220/2020-07-11-19-39-06.png 1156w&quot;
+        sizes=&quot;(max-width: 1156px) 100vw, 1156px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Test!&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our Ghost(Pro) service, and every penny we make is re-invested into funding further development of free, open source technology for modern publishing.&lt;/p&gt;
-&lt;p&gt;The version of Ghost you are looking at right now would not have been made possible without generous contributions from the open source community.&lt;/p&gt;
-&lt;h2&gt;Next up, the editor&lt;/h2&gt;
-&lt;p&gt;The main thing you’ll want to read about next is probably: the Ghost editor. This is where the good stuff happens.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;By the way, once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;h1&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 757px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/53fd6e30f8ad014df869d77503bb8ff5/70668/2020-07-11-19-33-22.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.20000000000002%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;2020 07 11 19 33 22&quot;
+        title=&quot;2020 07 11 19 33 22&quot;
+        src=&quot;/static/53fd6e30f8ad014df869d77503bb8ff5/70668/2020-07-11-19-33-22.png&quot;
+        srcset=&quot;/static/53fd6e30f8ad014df869d77503bb8ff5/0eb09/2020-07-11-19-33-22.png 500w,
+/static/53fd6e30f8ad014df869d77503bb8ff5/70668/2020-07-11-19-33-22.png 757w&quot;
+        sizes=&quot;(max-width: 757px) 100vw, 757px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Thoughts&lt;/h1&gt;
+&lt;p&gt;I chose to use a 20W COB for this project and I think that was a mistake. Before building this light a was using a simple utility lamp with shade and a 100W euivalent household LED and the growing light was only marginally brighter. The noise from the fan is another con for the growing light; it is always on and is very noticable in a silent room.&lt;/p&gt;
+&lt;p&gt;Finally, the cost of this light doesn’t seem bad but when compared to just buying a grow light that will come with a nice housing and higher output in lumens its not good. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Point Charge Simulation]]></title><link>https://example.com/charges/</link><guid isPermaLink="false">https://example.com/charges/</guid><pubDate>Fri, 10 Jul 2020 00:46:38 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Drawing of a bug]]></title><description><![CDATA[This is a bug or a snail.]]></description><link>https://example.com/welcome/</link><guid isPermaLink="false">https://example.com/welcome/</guid><pubDate>Sun, 06 May 2018 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;This is a bug or a snail.&lt;/p&gt;</content:encoded></item></channel></rss>
